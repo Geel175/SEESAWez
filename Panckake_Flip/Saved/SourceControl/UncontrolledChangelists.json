@@ -5,8 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/B00931963/Documents/GitHub/SEESAWez/Panckake_Flip/Content/Barney/Ball_Guy_BP.uasset",
 				"C:/Users/B00931963/Documents/GitHub/SEESAWez/Panckake_Flip/Content/Barney/Accessiblity/NOTE_Volumeslider.uasset"
+=======
+				"C:/Users/B00935010/Documents/GitHub/SEESAWez/Panckake_Flip/Content/Harry/Hole_1.umap",
+				"C:/Users/B00935010/Documents/GitHub/SEESAWez/Panckake_Flip/Content/Harry/_GENERATED/B00935010/Combined_02E320F7.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
